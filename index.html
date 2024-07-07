@@ -1,11 +1,201 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CV</title>
+  <title>cv</title>
+  <link href="CSS/normalize.css" rel="stylesheet">
   <link href="CSS/style.css" rel="stylesheet">
 </head>
-<body>
+<body class="page">
+  <header class="header section-offset">
+    <div class="container header-container">
+      <div class="header-content">
+        <h1>
+          Mavlekiev Marat
+        </h1>
+        <figure class="header-avatar">
+          <img src="assets/img/avatar.jpg" 
+          width="200"
+          height="200"
+          alt="Mavlekiev Marat">
+        </figure>
+      </div>
+      <nav class="header__nav">
+        <ul class="list-reset nav__list">
+          <li class="nav__item">
+            <a href="#contact" class="nav__link">
+              Contact
+            </a>
+          </li>
+          <li class="nav__item">
+            <a href="#about_me" class="nav__link">
+              About me
+            </a>
+          </li>
+          <li class="nav__item">
+            <a href="#education" class="nav__link">
+              Education
+            </a>
+          </li>
+          <li class="nav__item">
+            <a href="#experience" class="nav__link">
+              Experience
+            </a>
+          </li>
+          <li class="nav__item">
+            <a href="#code" class="nav__link">
+              Code
+            </a>
+          </li>
+          <li class="nav__item">
+            <a href="#skills" class="nav__link">
+              Skills
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="main">
+    <section class="contact section-offset" id="contact">
+      <div class="container">
+        <h2 class="section-title">
+          Contact
+        </h2>
+        <ul class="list-reset contact__list">
+          <li class="contact__item">
+            Discord: <br>
+            Marat(@mavlekiev)
+          </li>
+          <li class="contact__item">
+            Email:
+            <a href="mailto:mavlekiev@gmail.com">
+              mavlekiev@gmail.com
+            </a>
+          </li>
+          <li class="contact__item">
+            Address:<br>
+            <span>Ulyanovsk, Russia</span>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <section class="about section-offset" id="about_me">
+      <div class="container">
+        <h2 class="section-title">
+          About me
+        </h2>
+        <p class="text">
+          I like to study and learn something new. I like to read books, listen to music. I lead active and healhy lifestyle. I like to work and see the results of my work.
+        </p>
+      </div>
+    </section>
+    <section class="education section-offset" id="education">
+      <div class="container">
+        <h2 class="section-title">
+          Education
+        </h2>
+        <ul class="list-reset">
+          <li>
+            Technician, Ulyanovsk Electromechanical College, specialization in Computing Machines, Complexes, and Networks, 2003-2007
+          </li>
+          <li>
+            Specialist, Ulyanovsk State University, specialization in Applied Mathematics and Informatics, 2007-2012
+          </li>
+          <li>
+            Specialist, Ulyanovsk State Technical University, specialization in Finance and Credit, 2009-2012
+          </li>
+        </ul>
+      </div>
+    </section>
+    <section class="experience section-offset" id="experience">
+      <div class="container">
+        <h2 class="section-title">
+          Experience
+        </h2>
+        <ul class="list-reset">
+          <li class="experience__item">
+            <h3 class="title-item">
+              Acting Head of Laboratory, Regulator of REA and Devices, CJSC Ulyanovsk Mechanical Plant
+            </h3>
+            <p class="text">
+              November 2009 - October 2014
+            </p>
+          </li>
+          <li class="experience__item">
+            <h3 class="title-item">
+              Group Leader - Senior Specialist in Material and Technical Supply, CJSC Ulyanovsk Mechanical Plant
+            </h3>
+            <p class="text">
+              October 2014 - July 2016
+            </p>
+          </li>
+          <li class="experience__item">
+            <h3 class="title-item">
+              Deputy Head of External Supply Department, CJSC Ulyanovsk Mechanical Plant
+            </h3>
+            <p class="text">
+              July 2016 - August 2017
+            </p>
+          </li>
+          <li class="experience__item">
+            <h3 class="title-item">
+              Head of Procurement Department, CJSC Ulyanovsk Mechanical Plant
+            </h3>
+            <p class="text">
+              August 2017 - March 2024
+            </p>
+          </li>
+        </ul>
+      </div>
+    </section>
+    <section class="code section-offset" id="code">
+      <div class="container">
+        <h2 class="section-title">
+          Code
+        </h2>
+        <p class="text">
+            var x = 5 + 2 + 3; <br>
+            document.getElementById("demo").innerHTML = x;
+        </p>
+      </div>
+    </section>
+    <section class="skills section-offset" id="skills">
+      <div class="container">
+        <h2 class="section-title">
+          Skills
+        </h2>
+        <ul class="list-reset">
+          <li>
+            Programming Languages: JavaScript
+          </li>
+          <li>
+            Web Development: HTML, CSS
+          </li>
+          <li>
+            Version Control: Git
+          </li>
+          <li>
+            English language proficiency level: A1 (Beginner)
+          </li>
+        </ul>
+      </div>
+    </section>
+  </main>
+  <footer class="footer section-offset">
+    <div class="container footer-content">
+      <a class="footer__github" href="https://github.com/mavlekiev" target="_blank">
+        My GitHub
+      </a>
+      <p class="footer__year">
+        2024
+      </p>
+      <a class="footer__rsschool" href="https://rs.school/courses/javascript-preschool-ru" target="_blank">
+        <img src="assets/svg/rs-school-logo.svg" width="86" height="32" alt="RS School"/>
+      </a>
+    </div>
+  </footer>
 </body>
 </html>
