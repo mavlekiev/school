@@ -10,9 +10,10 @@
 - Specialist, Ulyanovsk State University, specialization in Applied Mathematics and Informatics, 2007-2012
 - Specialist, Ulyanovsk State Technical University, specialization in Finance and Credit, 2009-2012
 
-## Course
-- Skillbox, Web developer, 2024
+## Courses
+- Skillbox, Web developer, 2024 (in progress)
 - RS School, Frontend developer Stage 0, 2024
+- RS School, Frontend developer Stage 1, 2024 (in progress)
 
 ## Work Experience
 ### Acting Head of Laboratory, Regulator of REA and Devices, CJSC Ulyanovsk Mechanical Plant
@@ -58,6 +59,24 @@
 - English language proficiency level: A1 (Beginner)
 - German language proficiency level: A1 (Beginner)
 
+## Code example
+```
+let startYear, finishYear;
+
+startYear = +prompt( 'Введите начальный год (начиная от 1900)', '' );
+finishYear = +prompt( 'Введите конечный год (не более 2016)', '' );
+
+if (startYear > finishYear) {
+    alert('Вы ввели значение насального года выше, чем значение конечного года');
+} else {
+    for (let i = startYear; i <= finishYear; i++) {
+        if (i % 4 === 0) {
+            console.log(i);
+            i = i + 3;
+        }
+    }
+}
+```
 ## Additional Information
 - Willingness to learn and continuously improve
 - Communicative and responsible
