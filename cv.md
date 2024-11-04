@@ -1,15 +1,18 @@
-# Resume
-
 ## Personal Information
 **Name:** Marat Mavlekiev  
 **Email:** mavlekiev@gmail.com  
 **Phone:** +7 (962) 635-58-75  
-**Discord:** Marat(@mavlekiev)  
+**Discord:** Marat(@mavlekiev) 
+**Telegram** @mavlekiev
 
 ## Education
 - Technician, Ulyanovsk Electromechanical College, specialization in Computing Machines, Complexes, and Networks, 2003-2007
 - Specialist, Ulyanovsk State University, specialization in Applied Mathematics and Informatics, 2007-2012
 - Specialist, Ulyanovsk State Technical University, specialization in Finance and Credit, 2009-2012
+
+##Course
+- Skillbox, Web developer, 2024
+- RS School, Frontend developer Stage 0, 2024
 
 ## Work Experience
 ### Acting Head of Laboratory, Regulator of REA and Devices, CJSC Ulyanovsk Mechanical Plant
@@ -49,10 +52,11 @@
 - Negotiations for obtaining the most favorable procurement conditions, contracting and monitoring their execution
 
 ## Skills
-- Programming Languages: JavaScript
+- Programming Languages: JavaScript, C++, Delphy
 - Web Development: HTML, CSS
 - Version Control: Git
 - English language proficiency level: A1 (Beginner)
+- Germany language proficiency level: A1 (Beginner)
 
 ## Additional Information
 - Willingness to learn and continuously improve
@@ -61,7 +65,7 @@
 
 ## Links
 - [GitHub](https://github.com/mavlekiev)
-- [Telegram](https://t.me/mavlekiev) 
+
 
 
 
