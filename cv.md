@@ -10,7 +10,7 @@
 - Specialist, Ulyanovsk State University, specialization in Applied Mathematics and Informatics, 2007-2012
 - Specialist, Ulyanovsk State Technical University, specialization in Finance and Credit, 2009-2012
 
-##Course
+## Course
 - Skillbox, Web developer, 2024
 - RS School, Frontend developer Stage 0, 2024
 
