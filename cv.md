@@ -56,7 +56,7 @@
 - Web Development: HTML, CSS
 - Version Control: Git
 - English language proficiency level: A1 (Beginner)
-- Germany language proficiency level: A1 (Beginner)
+- German language proficiency level: A1 (Beginner)
 
 ## Additional Information
 - Willingness to learn and continuously improve
