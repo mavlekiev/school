@@ -60,7 +60,8 @@
 - Quick learner and adaptable
 
 ## Links
-- [GitHub](https://github.com/mavlekiev)  
+- [GitHub](https://github.com/mavlekiev)
+- [Telegram](@mavlekiev) 
 
 
 
