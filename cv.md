@@ -61,7 +61,7 @@
 
 ## Links
 - [GitHub](https://github.com/mavlekiev)
-- [Telegram](@mavlekiev) 
+- [Telegram](https://t.me/mavlekiev) 
 
 
 
